@@ -23,4 +23,4 @@ Key findings:
 3. Offer special promotions on Tuesdays to encourage users to be more active on the day with the lowest average number of steps.
 
 ## Tableau Dashboard
-[View the interactive dashboard on Tableau Public]([YOUR_TABLEAU_LINK](https://public.tableau.com/views/SmartDeviceUsageInsights_17896933436060/SmartDeviceUsageInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/SmartDeviceUsageInsights_17896933436060/SmartDeviceUsageInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
