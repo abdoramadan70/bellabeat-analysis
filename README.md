@@ -7,7 +7,6 @@ This project analyzes smart device usage data to identify trends in user activit
 - SQL
 - BigQuery
 - Tableau
-- Excel
 
 ## Analysis
 The analysis explored daily activity patterns, average steps and calories burned, and the relationship between activity level and calories burned.
